@@ -7,4 +7,4 @@ def fibonacci(n):
 # Exemplo de uso
 limite = int(input("Digite um número limite: "))
 print("Sequência de Fibonacci até", limite, ":")
-print(fibonacci(limite))
+print(fibonacci(limite)) alk sknvsnvsnvosnvnsfnvis
